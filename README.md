@@ -9,8 +9,4 @@ This repository has multiple branches, each representing a project with the sour
 It is a humble request that if you want to immplement this code anywhere, try not to compy it completely and borrow some part of the logic, as it will be of no use if you copy somebody else's hardwork.
 
 Thanks and regards,
-Suhas N Kumar,
-suhasnkumar3114@gmail.com
-03SU23BC014,
-Srinivas University,
-Bangalore - 95
+Suhas N Kumar|suhasnkumar3114@gmail.com|03SU23BC014|Srinivas University,Bangalore - 95
