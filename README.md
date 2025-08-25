@@ -6,7 +6,7 @@ Hello dear reader,
       I look forward to work and be helpful in any way to the organisation and be a part of such a selfless initative.
 
 This repository has multiple branches, each representing a project with the source code and a README file bearing the step-by-step instructions to execute it.
-It is a humble request that if you want to immplement this code anywhere, try not to compy it completely and borrow some part of the logic, as it will be of no use if you copy somebody else's hardwork.
+It is a humble request that if you want to immplement this code anywhere, try not to copy it completely and borrow some part of the logic, as it will be of no use if you copy somebody else's hardwork.
 
 Thanks and regards,
 Suhas N Kumar|suhasnkumar3114@gmail.com|03SU23BC014|Srinivas University,Bangalore - 95
